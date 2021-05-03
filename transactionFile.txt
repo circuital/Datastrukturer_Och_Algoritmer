@@ -1,0 +1,4 @@
+Account: 1995. Type: Deposit. Amount: 1000. Date: 2019
+Account: 1995. Type: Withdrawal. Amount: 500. Date: 2019
+Account: 1951. Type: Deposit. Amount: 2000. Date: 2019
+Account: 1951. Type: Withdrawal. Amount: 1000. Date: 2019
