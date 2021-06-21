@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elvirag/src/private/Datastrukturer_Och_Algoritmer/src/account_storage/account_storage.cpp
+account_storage.h
+/Users/elvirag/src/private/Datastrukturer_Och_Algoritmer/src/account_storage/account_storage.h
+
+/Users/elvirag/src/private/Datastrukturer_Och_Algoritmer/src/account_storage/account_storage.h
+string
+-
+vector
+-
+map
+-
+
